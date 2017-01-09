@@ -25,8 +25,8 @@
 
    Account Service number 2 registration
 
-   ![Accounts_Service_2_Registration_WEB] (images/image8.png)
-   ![Accounts_Service_2_Registration_WEB2] (images/image8.1.png)
+   ![Accounts_Service_2_Registration_WEB] (images/imagen8.png)
+   ![Accounts_Service_2_Registration_WEB2] (images/imagen8.1.png)
 
 4. A brief report describing what happens when you kill the microservice with port 2222.
 Can the web service provide information about the accounts? Why?
